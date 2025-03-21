@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created By: Jayden Smith
 # Date: March 19, 2025
-# This programs makes the user see if they can get the same number with the random number constants
+# This programs is a number guessing game
 import constants
 
 
